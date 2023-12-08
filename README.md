@@ -10,6 +10,12 @@ This react application was generated using [Create React App](https://github.com
 
 ---
 
+## Install
+```
+npm install
+npm run test
+```
+
 ## Your Task
 
 Your task is to finish the form so it have all following functionalities:
